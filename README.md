@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hello👋, I'm Aditya
+
+- Pursuing B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
+- Highly interested in👨‍💻 Problem Solving and Web Developemnt.
+- Languages:- C++, HTML, CSS, JavaScript.
+
+## Achievements:
+
+- Leetcode - 400+ Questions.
+- Worked on Food Ordering Web Application.
+- Currently making a E-Commerce Website.
+- Selected in JEE-ADVANCED 2019.
 
 <!--
 **Aditya-singhal03/Aditya-singhal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
