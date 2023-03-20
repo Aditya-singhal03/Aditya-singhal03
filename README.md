@@ -8,7 +8,7 @@
 
 - Leetcode - 400+ Questions.
 - Worked on Food Ordering Web Application.
-- Currently making a E-Commerce Website.
+- Worked on E-Commerce Website with Admin Panel feature.
 - Selected in JEE-ADVANCED 2019.
 
 <!--
