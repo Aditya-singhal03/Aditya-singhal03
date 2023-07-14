@@ -1,14 +1,14 @@
 ## Hello👋, I'm Aditya
 
 - Pursuing B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
-- Highly interested in👨‍💻 Problem Solving, Web Developemnt and BlockChain Development.
-- Languages:- C++, HTML, CSS, JavaScript, Solidity.
+- Highly interested in👨‍💻 Web Development and BlockChain Development.
+- Languages:- C++, JavaScript, Solidity, Python, HTML, CSS.
 
 ## Achievements:
 
-- Leetcode - 400+ Questions.
-- Worked on Food Ordering Web Application.
-- Worked on E-Commerce Website with Admin Panel feature.
+- Leetcode - 500+ Questions.
+- Developed several Full-Stack and BlockChain applications.
+- Have made an E-Commerce website, Coding Website, Decentralized Escrow Application, and Block Explorer Website ( Check my Repos. ).
 - Selected in JEE-ADVANCED 2019.
 
 <!--
