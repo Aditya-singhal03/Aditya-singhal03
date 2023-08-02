@@ -2,6 +2,7 @@
 
 - Pursuing B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
 - Highly interested in👨‍💻 Web Development and BlockChain Development.
+- My Resume - [Resume](https://drive.google.com/file/d/13NN0BFnr7MiOLhWQO7ug_IclbKjjYsDt/view?usp=sharing)
 - Languages:- C++, JavaScript, Solidity, Python, HTML, CSS.
 
 ## Achievements:
