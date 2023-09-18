@@ -1,6 +1,6 @@
 ## Hello👋, I'm Aditya
 
-- Pursuing B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
+- Completed my B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
 - Highly interested in👨‍💻 Web Development and BlockChain Development.
 - Languages:- C++, JavaScript, TypeScript, Solidity, Python, HTML, CSS.
 - My Resume - [Resume](https://drive.google.com/file/d/13NN0BFnr7MiOLhWQO7ug_IclbKjjYsDt/view?usp=sharing)
