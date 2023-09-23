@@ -1,5 +1,6 @@
 ## Hello👋, I'm Aditya
 
+- Software Engineer.
 - Completed my B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
 - Highly interested in👨‍💻 Web Development and BlockChain Development.
 - Languages:- C++, JavaScript, TypeScript, Solidity, Python, HTML, CSS.
