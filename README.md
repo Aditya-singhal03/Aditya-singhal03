@@ -1,9 +1,10 @@
 ## Hello👋, I'm Aditya
 
-- Software Engineer.
+- Full Stack developer experienced in Mern Stack.
+- Software Engineer at Jio Platforms Limited
 - Completed my B.Tech. from IIT-DHANBAD 👨🏻‍🎓.
-- Highly interested in👨‍💻 Web Development and BlockChain Development.
-- Languages:- C++, JavaScript, TypeScript, Solidity, Python, HTML, CSS.
+- Highly interested in👨‍💻 Web Development and AI.
+- Languages:- JavaScript, TypeScript, C++.
 - My Resume - [Resume](https://drive.google.com/file/d/13NN0BFnr7MiOLhWQO7ug_IclbKjjYsDt/view?usp=sharing)
 
 ## Achievements:
